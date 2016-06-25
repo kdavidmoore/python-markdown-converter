@@ -12,6 +12,7 @@ Demonstrating markdown-to-HTML conversion using Python.
 python converter_custom.py markdown_file_to_convert.md
 ```
 An HTML file of the same name (but different file extension) will be automatically generated.
+
 2. `converter_mistune.py` - type into a terminal window:
 ```
 python converter_mistune.py markdown_file_to_convert.md
