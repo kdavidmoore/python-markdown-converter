@@ -7,14 +7,5 @@ Demonstrating markdown-to-HTML conversion using Python.
 2. `converter_mistune.py` - a command-line tool that uses [mistune](http://mistune.readthedocs.io/en/latest/) to convert Markdown files into HTML files. Support for tables (a la GitHub markdown) should be added.
 
 ## Usage
-1. `converter_custom.py` - type into a terminal window:
-```
-python converter_custom.py markdown_file_to_convert.md
-```
-An HTML file of the same name (but different file extension) will be automatically generated.
-
-2. `converter_mistune.py` - type into a terminal window:
-```
-python converter_mistune.py markdown_file_to_convert.md
-```
-An HTML file of the same name (but different file extension) will be automatically generated.
+1. `converter_custom.py` - type into a terminal window: `python converter_custom.py markdown_file_to_convert.md`. An HTML file of the same name (but different file extension) will be automatically generated.
+2. `converter_mistune.py` - type into a terminal window: `python converter_mistune.py markdown_file_to_convert.md`. An HTML file of the same name (but different file extension) will be automatically generated.
